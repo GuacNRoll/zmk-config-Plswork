@@ -1,0 +1,6 @@
+if SHIELD_PLSWORK
+
+config ZMK_KEYBOARD_NAME
+    default "Plswork"
+
+endifx
