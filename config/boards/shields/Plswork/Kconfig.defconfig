@@ -3,4 +3,13 @@ if SHIELD_PLSWORK
 config ZMK_KEYBOARD_NAME
     default "Plswork"
 
+config ZMK_STUDIO
+    default y
+
+config ZMK_STUDIO_RPC_ENABLE
+    default y
+
+config USB_CDC_ACM
+    default y
+
 endif
