@@ -15,7 +15,7 @@
                 
                 &kp F &kp G &kp H &kp J &kp K &kp L &kp Z
                 
-                &kp F &kp F &studio_unlock
+                &kp F &kp F &bt BT_CLR
             >;
         };
     };
